@@ -39,3 +39,7 @@ Binnen het fragment laat ik ook geluiden visualiseren met animaties. Bijvoorbeel
 
 Voor Fun: 
 Naast datgene hierboven wil ik mijn ontwerp ook leuk en interessant maken voor Darice. Alle animaties , kleuren en typografie maken het ook experimenteel. Iets wat ik ook met deze opdracht wil laten zien. Als het alleen maar closed captions waren wordt het ook een beetje saai ook voor Darice.
+
+bron: 
+van Gemert, V. (z.d.). Exclusive Design. Exclusive Design. Geraadpleegd op 14 juni 2021, van https://exclusive-design.vasilis.nl/
+
