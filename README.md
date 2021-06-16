@@ -40,6 +40,25 @@ Binnen het fragment laat ik ook geluiden visualiseren met animaties. Bijvoorbeel
 Voor Fun: 
 Naast datgene hierboven wil ik mijn ontwerp ook leuk en interessant maken voor Darice. Alle animaties , kleuren en typografie maken het ook experimenteel. Iets wat ik ook met deze opdracht wil laten zien. Als het alleen maar closed captions waren wordt het ook een beetje saai ook voor Darice.
 
+# Ontwerpkeuzes van Blade Runner 2049 - baseline test
+
+## Visualisatie van geluiden: 
+De window is in twee delen gesplitst. Links staat de video , Rechts de closed captions. Dit heb ik met grid gedaan. Normaal zie je vaak dat de closed caption onder de video staan ik vind dit meer een experimentele en interessante toevoeging aan de opdracht.
+
+## Typografie: 
+Voor de typografie heb ik gekozen voor het brenner mono regular font. Dit is een sans-serif font waardoor het makkelijk leesbaar is voor Darice. Uit het interview met Darice bleek namelijk dat zei leesbaarheid en toegankelijkheid belangrijk vind.
+
+## Achtergrondgeluiden: 
+In het fragment hoor je allemaal achtergrondgeluiden die de setting maken in de film. Bijvoorbeeld het alarm en de hoge piep. Ook deze heb ik in de closed captions gezet zodat Darice weet wat voor geluid afgespeeld wordt. Dit is ook bij de muziek, in de tweede scène is dit vooral het geval. Ik heb vermeld wat voor muziek afspeeld in dit geval mysterieuze muziek. 
+
+## Pieptoon tijdens Base line: 
+Het piep geluid. De spanning is deze scene is belangrijk, de toon wordt maar erger en erger. Ik laat deze spanning zien door met kleuren te visualiseren daarnaast staat onder de video een closed caption met “High Pitched Sound playing” van het geluid.  
+Daarna stopt de piep. Het blijft dan even compleet stil en beeld is zwart.
+
+## Scene 2: 
+In de tweede scène hoor je mysterieuze muziek dit visualiseer ik voor Darice op twee manieren. Door closed captions toe te passen “Mysterious music playing” en creeër ik met kleuren een golvend effect wat past bij de mysterieuze setting. 
+
+
 bron: 
 van Gemert, V. (z.d.). Exclusive Design. Exclusive Design. Geraadpleegd op 14 juni 2021, van https://exclusive-design.vasilis.nl/
 
