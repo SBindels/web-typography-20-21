@@ -8,9 +8,10 @@ Ik maak dit voor Darice zij is front end developer en werkt bij de Hogeschool va
 Een film met alleen closed caption gaat er veel belangrijke informatie verloren wat heel jammer is voor slechthorende of dove mensen. Ik wil daarom met typo(grafische) closed caption de film toegankelijker maken voor Darice. 
 
 # Ignore Conventions:
+Waarom zou je dat doen?
+Je zou dit doen om je website toegankelijker te maken voor mensen met een handicap. Mensen die bijvoorbeeld een screenreader nodig hebben. Als je werk volgens de conventions staat er een navigation bar bovenaan je website. Met daarin alle links naar verschillende sub pagina’s binnen je website. Voor iemand die werkt met een screenreader moet degene alle links af tot hij is waar hij moet zijn. Stel je hoofdpagina heeft meer dan 150 links is dat een vreselijk proces. 
 
- 
- 
+Als we hierop ignoring conventions toepassing wordt dit een doodsimpele website met een wat tekst en de nodige links. Zonder navigation bar en andere elementen die onnodig zijn.
 
 # Prioritise identity: 
 Wie is Darice: 
